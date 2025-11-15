@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ratan Singh
-- 👀 I’m interested in FrontEnd Development and Wordpress development 
+- 👀 I’m interested in Full Stack Development and Wordpress development 
 - 📫 How to reach me 8808355960 ratansingh1042@gmail.com
 - ⚡ Fun fact: Listing music on coding time
 
